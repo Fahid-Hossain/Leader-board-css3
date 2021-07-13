@@ -305,6 +305,7 @@ color:#AEAEAE;
     }
     .player{
         justify-content: center;
+        flex-direction: column;
     }
 
     .blogs__article {
